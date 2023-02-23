@@ -1,2 +1,43 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+	<link rel="stylesheet" href="aboutCSS.css" type="text/css"/>
+</head>
+<body>
+
+  <div id="header">
+  		<h1>Peak into my life</h1>
+  	</div>
+  	<div id = "navbar">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="Future Plan.html">Future Plan</a></li>
+          </ul>
+      </div>
+
+    <div id="aboutme">
+    <p>
+    From the moment I opened my eyes, I was exposed to a military-led lifestyle surrounded by aircrafts in various hangars all over Pakistan since my father was an army aviator and at some point, he also became one of those thousands of officers deployed on tenures to protect our motherland on the front lines by leaving their families behind due to the war on terrorism. Although I led a normal life, shielded away from the harsh reality that my father like so many of his fellow officers might never come back, I vividly remember a distinct moment in my childhood when a song playing on the radio reminded me of him so much that I started weeping silently as my heart ached for him and shielded my face away from my mother. That moment stuck with me for the rest of my life and served as a reminder for me that it was only not just my father who sacrificed his life but our entire family. And ever since then, I've wanted to live a life driven by purpose, meaning, and sacrifice. A life that amounts to something more than my own personal gain. Although I cannot become a pilot like my father and my grandfather before him, I still aim to join the armed forces and serve my country, continuing my family legacy and leading a life of fulfillment.
+    </p>
+
+   <p>
+      With a background in pre-med, I initially planned on attending a medical school but was unable to go forward with the supposedly linear preplanned pathway that I had thought of. Equipped with years of biology and chemistry, I was suddenly stranded in a field of uncertainty over what to study and decided to take a leap of faith and study IT, a complete 180 of my previous educational background. The deciding factor funny enough was an app called Swift playgrounds on my iPad that glossed over basic coding but that was enough for me and I'm glad I went ahead with my choice because it led me here to Australia where I'm discovering a whole new side of tech that I never thought I could understand or comprehend.
+   </p>
+
+    <p>
+       These days I'm focusing on the course content being taught at my university which comprises SQL, HTML, and CSS but I've also recently started an online course on the side that deals with a variety of other programming languages in hopes of diversifying my skill set and figuring what job I might like to do once I graduate. I will admit sometimes that the setbacks that I face while learning can be demotivating but keeping my original goal in mind of serving my home country and making my parents proud of me, I always push through these obstacles because I now understand that like all things in life, what I'm currently learning is not straightforward. There will be considerable achievements but not before copious amounts of plateaus and that's nothing to be worried about but rather a journey to look forward to.
+    </p>
+
+   </div>
+
+	 <footer>
+  <p><a href="https://www.facebook.com/">facebook</a></p>
+	<p><a href="https://www.instagram.com/">instagram</a></p>
+	 <p><a href="https://www.twitter.com/">twitter</a></p>
+  </footer>
+  </body>
+  </html>
+
+
